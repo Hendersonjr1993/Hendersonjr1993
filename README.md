@@ -8,4 +8,4 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Hendersonjr1993/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Hendersonjr1993/azure-network-protocols)
